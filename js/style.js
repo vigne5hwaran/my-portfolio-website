@@ -4,7 +4,6 @@
 //     }
 // }
 
-
 // var width = window.matchMedia("(max-width: 576px)")
 // myFunction(width) // Call listener function at run time
 // width.addListener(widthFunc);
