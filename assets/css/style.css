@@ -170,6 +170,7 @@ footer {
 	#content {
 		text-align: center;
 		margin: 10px;
+		margin-top: 30px;
 		position: relative;
 		left: 0;
 	}
@@ -197,10 +198,6 @@ footer {
 		font-size: 36px;
 		text-transform: uppercase;
 	}
-	footer {
-		float: none;
-		margin-top: 20px;
-	}
 	.icons {
 		text-align: center;
 	}
@@ -219,7 +216,7 @@ footer {
 @media screen and (max-width: 416px) {
 	#content {
 		text-align: center;
-		margin: 30px 5%;
+		margin: 40px 5%;
 		position: relative;
 		left: 0;
 		padding: 0;
@@ -236,7 +233,7 @@ footer {
 	}
 	footer {
 		float: none;
-		margin: 50px 0;
+		margin: 40px 0;
 	}
 	.icons a {
 		font-size: 26px;
@@ -271,13 +268,6 @@ footer {
 		width: 240px;
 		margin: 0 14%;
 	}
-	#content {
-		text-align: center;
-		margin: 30px 5%;
-		position: relative;
-		left: 0;
-		padding: 0;
-	}
 	#content h1 {
 		font-size: 25px;
 		text-transform: uppercase;
@@ -287,10 +277,6 @@ footer {
 	}
 	#content h3 {
 		font-size: 20px;
-	}
-	footer {
-		float: none;
-		margin: 50px 0;
 	}
 	.icons a {
 		font-size: 26px;
