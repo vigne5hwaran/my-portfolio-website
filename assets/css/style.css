@@ -2,6 +2,7 @@ body {
 	margin: 0;
 	padding: 0;
 	height: 100vh;
+	background: #444444;
 	font-family: 'Roboto', sans-serif;
 }
 #particles-js{
@@ -41,17 +42,19 @@ body {
 	font-size: 24px;
 	font-weight: 400;
     margin-bottom: 5px;
-    color: rgba(0,0,0,0.6);
+    color: rgba(255,255,255,0.6);
 }
 #content h1 {
 	font-size: 50px;
 	font-weight: 700;
+	color: #ffffff;
 	letter-spacing: 1px;
     line-height: 1.3;
 }
 #content h3 {
 	font-size: 28px;
 	font-weight: 500;
+	color: #ffffff;
 	line-height: 0.6;
 }
 #buttons {
@@ -62,22 +65,21 @@ body {
 	width: 140px;
 	padding: 10px;
 	margin-left: 15px;
-	color: #b8b7b7;
-	border: 2px solid #b8b7b7;
+	color: #ff4c4c;
+	border: 2px solid #f8f9fa;
 	border-radius: 25px;
 	font-size: 16px;
 }
 #btn-2:hover {
-	background: white;
-	color: #614c48;
-	border: 2px solid #614c48;
+	border: 2px solid #ff4c4c;
 	transition: 0.5s;
+	background: #f8f9fa;
 	box-shadow: 0 15px 24px rgba(0,0,0,0.1), 
 				0 19px 76px rgba(0,0,0,0.1);
 }
 #btn-1 {
 	width: 210px;
-	color: white;
+	color: #f8f9fa;
 	padding: 10px;
 	border-radius: 25px;
 	background: #ff4c4c;
@@ -86,6 +88,7 @@ body {
 }
 #btn-1:hover {
 	transition: 0.5s;
+	border: 2px solid #f8f9fa;
 	box-shadow: 0 15px 24px rgba(0,0,0,0.1), 
 				0 19px 76px rgba(0,0,0,0.1);
 }
@@ -97,7 +100,7 @@ footer {
 	font-size: 25px;
 	letter-spacing: 20px;
 	cursor: pointer;
-	color: #a2a2a2;
+	color: #ababab;
 }
 .icons .fa-instagram:hover {
 	background: rgb(255,219,35);
