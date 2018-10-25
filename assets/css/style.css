@@ -13,7 +13,7 @@ body {
 	left: 0;
 	bottom: 0;
 	width: 27%;
-	background: #ff0000;
+	background: #ff4242;
 	padding-top: 48%;
 	box-shadow: 0 0px 24px rgba(0,0,0,0.22), 
 				0 0px 46px rgba(0,0,0,0.1);
@@ -80,8 +80,8 @@ body {
 	color: white;
 	padding: 10px;
 	border-radius: 25px;
-	background: #614c48;
-	background: #ff0000;
+	background: #ff4242;
+	border: 2px solid #ff4242;
 	font-size: 16px;
 }
 #btn-1:hover {
