@@ -107,19 +107,19 @@ footer {
     background: linear-gradient(360deg, rgba(255,219,35,1) 0%, rgba(249,18,15,1) 50%, rgba(27,73,247,1) 100%);
 	-webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    text-shadow: 0 10px 24px rgba(0,0,0,0.3);
+    text-shadow: 0 10px 24px rgba(0,0,0,0.2);
 }
 .icons .fa-github:hover {
 	color: #000000;
-	text-shadow: 0 10px 24px rgba(0,0,0,0.3);
+	text-shadow: 0 10px 24px rgba(0,0,0,0.2);
 }
 .icons .fa-facebook-f:hover {
 	color: #5b5998;
-	text-shadow: 0 10px 24px rgba(0,0,0,0.3);
+	text-shadow: 0 10px 24px rgba(0,0,0,0.2);
 }
 .icons .fa-google-plus-g:hover {
 	color: #dd4b39;
-	text-shadow: 0 10px 24px rgba(0,0,0,0.3);
+	text-shadow: 0 10px 24px rgba(0,0,0,0.2);
 }
 
 
