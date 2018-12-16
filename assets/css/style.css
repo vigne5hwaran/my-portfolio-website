@@ -106,7 +106,7 @@ footer {
 	transition: 0.5s;
 }
 .icons .fa-instagram:hover {
-	background: rgb(255,219,35);
+	/* background: rgb(255,219,35); */
     background: linear-gradient(360deg, rgba(255,219,35,1) 0%, rgba(249,18,15,1) 50%, rgba(27,73,247,1) 100%);
 	-webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
